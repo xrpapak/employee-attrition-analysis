@@ -4,6 +4,7 @@
 ## Overview
 
 Employee attrition is a critical challenge for businesses worldwide. Predicting which employees are at risk of leaving helps companies take proactive measures, improve retention, and save costs related to recruitment and training.  
+
 This project uses machine learning techniques to predict employee attrition based on historical data, uncovering key factors that influence turnover.
 
 ---
